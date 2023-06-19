@@ -65,3 +65,4 @@ use Sphinx with restructuredText to write and generate documentation.
 
 
 
+The first part of homework(analysis 1 - Basic Break Even Analysis) is present in this folder. 
